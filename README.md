@@ -1,4 +1,4 @@
-# Thank you! Grazie! Merci! 谢谢! Danke!
+# Thank you! Grazie! Merci! 谢谢! Danke! Obrigado!
 
 There is so greater joy than other developers using our code or data in new interesing projects. Thank you!! ^^
 
@@ -10,4 +10,5 @@ There is so greater joy than other developers using our code or data in new inte
 + https://github.com/franjpr/curso-javascript
 + https://github.com/garywu/chrome-ext-chinese-frequency-tts
 + https://github.com/andyjdavis/MandarinMojo
++ https://github.com/veritas44/android-app-hexrgbplus-converter
 + 
